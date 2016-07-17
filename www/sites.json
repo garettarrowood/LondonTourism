@@ -1,0 +1,32 @@
+[
+  {
+    "id":"1",
+    "name":"Buckingham Palace",
+    "description":"It's very royal"
+  },
+  {
+    "id":"2",
+    "name":"St Paul's Cathdral",
+    "description":"Shhhhhhhhhhhhhhh"
+  },
+  {
+    "id":"3",
+    "name":"Tower of London",
+    "description":"Check out the Beefeaters"
+  },
+  {
+    "id":"4",
+    "name":"The Shard",
+    "description":"Highest building in London"
+  },
+  {
+    "id":"5",
+    "name":"London Eye",
+    "description":"Shows you a great view"
+  },
+  {
+    "id":"6",
+    "name":"Big Ben",
+    "description":"Tell the time"
+  }
+]
